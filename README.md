@@ -20,9 +20,9 @@ Este projeto nasceu com o objetivo claro de **facilitar a conexão entre desenvo
 
 ## 🛠️ Tecnologias Utilizadas (Exemplo)
 
-* **Frontend:** Verificando...
-* **Backend:** Verificando...
-* **Banco de Dados:** Verificando...
+* **Frontend:** Angular
+* **Backend:** Java, SpringBoot
+* **Banco de Dados:** PostGreSQL
 * **Deployment:** Verificando... (Docker, Vercel/Heroku)
 
 ---
@@ -57,8 +57,10 @@ O **LinkeDev** é um trabalho em equipe. Agradecemos imensamente a todos que con
 
 | Nome do Colaborador | Contribuição Principal | GitHub/Link |
 | :--- | :--- | :--- |
-| **[Lucas Silveira Oleques]** | Liderança do Projeto, Desenvolvimento Full-Stack | [@LucasOleques] |
-| **[Henrique De Freitas Domingos]** | Desenvolvimento Full-Stack | [@HenriqueDomingos1010] |
+| **Lucas Silveira Oleques** | Product Owner, Desenvolvimento Full-Stack | @LucasOleques |
+| **Rafael Venâncio Keim Dos Santos** | Scrum Master, Desenvolvimento Full-Stack | @Sowetto |
+| **Henrique De Freitas Domingos** | Desenvolvimento Full-Stack | @HenriqueDomingos1010 |
+| **Nicolas Marks** | Desenvolvimento Full-Stack | @Nicolasmarks7 |
 
 ---
 
@@ -81,4 +83,4 @@ Distribuído sob a licença **MIT**. Veja o arquivo `LICENSE` para mais detalhes
 
 **[Lucas Silveira Oleques]** - [lucasoleques1903@gmail.com]
 
-Projeto Link: [https://github.com/LucasOleques/LinkeDev]
+Link do Projeto: [https://github.com/LucasOleques/LinkeDev]
