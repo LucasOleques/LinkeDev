@@ -18,12 +18,12 @@ Este projeto nasceu com o objetivo claro de **facilitar a conexão entre desenvo
 
 ---
 
-## 🛠️ Tecnologias Utilizadas (Exemplo)
+## 🛠️ Tecnologias Utilizadas
 
 * **Frontend:** Angular
 * **Backend:** Java, SpringBoot
 * **Banco de Dados:** PostGreSQL
-* **Deployment:** Verificando... (Docker, Vercel/Heroku)
+* **Deployment:** Verificando... (Docker, Vercel, Heroku, Render)
 
 ---
 
@@ -59,7 +59,6 @@ O **LinkeDev** é um trabalho em equipe. Agradecemos imensamente a todos que con
 | :--- | :--- | :--- |
 | **Lucas Silveira Oleques** | Product Owner, Desenvolvimento Full-Stack | @LucasOleques |
 | **Rafael Venâncio Keim Dos Santos** | Scrum Master, Desenvolvimento Full-Stack | @Sowetto |
-| **Henrique De Freitas Domingos** | Desenvolvimento Full-Stack | @HenriqueDomingos1010 |
 | **Nicolas Marks** | Desenvolvimento Full-Stack | @Nicolasmarks7 |
 
 ---
